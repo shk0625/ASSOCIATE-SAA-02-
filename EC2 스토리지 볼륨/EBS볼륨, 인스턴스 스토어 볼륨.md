@@ -1,10 +1,11 @@
 # EBS 볼륨 
 ## 특징
-### 1) 데이터 복구 능력이 좋다 (데이터 중복 구현 저장 방식)
+### 1) 데이터 복구 능력이 좋다 (데이터 *중복 구현 저장 방식)
 ### 2)  물리적 하드 드라이브처럼 사용할 수 있음.
 ### 3)  범용 SSD(gp2 및 gp3), 프로비저닝된 IOPS SSD(io1 및 io2), 처리량 최적화 HDD(st1), 콜드 HDD(sc1) 및 마그네틱(standard) 등의 볼륨 유형을 제공
 ### 데이터 가용성 데이터 지속성 데이터 암호화 데이터 보안 스냅샷 유연성
 
+[EBS볼륨특징] (https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ebs-volumes.html)
 
 
 

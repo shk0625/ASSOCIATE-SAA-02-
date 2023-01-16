@@ -5,7 +5,7 @@
 ### 3)  범용 SSD(gp2 및 gp3), 프로비저닝된 IOPS SSD(io1 및 io2), 처리량 최적화 HDD(st1), 콜드 HDD(sc1) 및 마그네틱(standard) 등의 볼륨 유형을 제공
 ### 데이터 가용성 데이터 지속성 데이터 암호화 데이터 보안 스냅샷 유연성
 
-[EBS볼륨특징] (https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ebs-volumes.html)
+[EBS볼륨특징](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ebs-volumes.html)
 
 
 
